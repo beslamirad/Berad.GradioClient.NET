@@ -30,7 +30,8 @@ public class Program
         var resultBodyString = await client.Predict(requestBodyString, "/model_chat", Berad.GradioClient.NET.Utils.Enums.PredictBodyType.String);
         HandleResponse(resultBodyString);
 
-        Console.ReadLine();
+
+        Console.ReadKey();
     }
 
     // Helper method to handle responses
