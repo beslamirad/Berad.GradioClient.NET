@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berad.GradioClient.NET", "Berad.GradioClient.NET\Berad.GradioClient.NET.csproj", "{7A691242-5105-5275-7EAF-1B3B80246D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berad.GradioClient.NET.ConsoleApp", "Berad.GradioClient.NET.ConsoleApp\Berad.GradioClient.NET.ConsoleApp.csproj", "{6BBFE835-2D5B-F7C9-E891-0D421AAA731F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A691242-5105-5275-7EAF-1B3B80246D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A691242-5105-5275-7EAF-1B3B80246D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A691242-5105-5275-7EAF-1B3B80246D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A691242-5105-5275-7EAF-1B3B80246D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBFE835-2D5B-F7C9-E891-0D421AAA731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBFE835-2D5B-F7C9-E891-0D421AAA731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBFE835-2D5B-F7C9-E891-0D421AAA731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBFE835-2D5B-F7C9-E891-0D421AAA731F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77DE1E9-B13B-4AF3-84D6-87C375058D49}
+	EndGlobalSection
+EndGlobal
