@@ -41,8 +41,13 @@ curl -X POST https://qwen-qwen2-5-max-demo.hf.space/gradio_api/call/model_chat -
 ## 📦 Installation
 Install via NuGet (Coming soon):
 
+Package Manager
 ```sh
-dotnet add package Berad.GradioClient.NET
+NuGet\Install-Package Berad.GradioClient.NET 
+```
+.NET CLI
+```sh
+dotnet add package Berad.GradioClient.NET 
 ```
 
 ## 📌 Usage Example
@@ -144,11 +149,15 @@ curl -X POST https://qwen-qwen2-5-max-demo.hf.space/gradio_api/call/model_chat -
   | read EVENT_ID; curl -N https://qwen-qwen2-5-max-demo.hf.space/gradio_api/call/model_chat/$EVENT_ID
 ```
  
-## 📦 نصب
-نصب از طریق NuGet (به‌زودی):
+## 📦 نصب 
 
+Package Manager
 ```sh
-dotnet add package Berad.GradioClient.NET
+NuGet\Install-Package Berad.GradioClient.NET 
+```
+.NET CLI
+```sh
+dotnet add package Berad.GradioClient.NET 
 ```
 
 ## 📌  نمونه استفاده
