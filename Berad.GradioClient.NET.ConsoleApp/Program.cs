@@ -29,8 +29,8 @@ public class Program
         var requestBodyString = "{\"data\":[\"write a method for sum 2 int\",[],\"You are an assistant C# programmer.\"]}";
         var resultBodyString = await client.Predict(requestBodyString, "/model_chat", Berad.GradioClient.NET.Utils.Enums.PredictBodyType.String);
         HandleResponse(resultBodyString);
-
-
+         
+        // Pause to keep the console open
         Console.ReadKey();
     }
 
