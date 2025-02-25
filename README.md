@@ -39,7 +39,7 @@ curl -X POST https://qwen-qwen2-5-max-demo.hf.space/gradio_api/call/model_chat -
 
 ```
 ## 📦 Installation
-Install via NuGet (Coming soon):
+Install via NuGet :
 
 Package Manager
 ```sh
@@ -52,7 +52,7 @@ dotnet add package Berad.GradioClient.NET
 
 ## 📌 Usage Example
 
-To use this library, first install it via NuGet (coming soon) or add the DLL manually.
+To use this library, first install it via NuGet or add the DLL manually.
 
 ### **Basic Example**
 ```csharp
