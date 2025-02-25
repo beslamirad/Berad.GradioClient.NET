@@ -1,5 +1,5 @@
 
- ## Berad.GradioClient .NET 
+ ## Berad.GradioClient .NET / C#
 ## 🌐 Select Language | انتخاب زبان
 
 <details>
@@ -110,9 +110,9 @@ public class Program
 <details>
   <summary>🇮🇷 فارسی</summary>
 
- # Berad GradioClient .NET
+ # Berad GradioClient .NET / سی شارپ
 
-یک کتابخانه کلاینت .NET Core برای تعامل با Gradio API.
+یک کتابخانه کلاینت  .NET Core برای تعامل با Gradio API. سی شارپ
 
 ## 🚀 ویژگی‌ها
 - API ساده و آسان برای استفاده  
